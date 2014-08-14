@@ -7,7 +7,7 @@
 		%>  
 		The time is  <%      
 			out.println( date );  
-			out.println("<br>Cassie's server hostname is "+inetAddress.getHostName());  
+			out.println("<br>Cassie's Updated Server hostname is "+inetAddress.getHostName());  
 			%>  
 		<br>  
 	</body>  
